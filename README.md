@@ -1,4 +1,3 @@
-# Linear Regression
+# Freight Pricing
 
-## This repository includes different projects that utilize the Linear Regression algorithm.
-* [E-commerce Analysis](https://github.com/pdancel/LinearRegression/tree/master/Ecommerce%20Data)
+This repository includes a machine learning model that was developed to help an oil company to predict their cost of shipping to customers across the United States.
